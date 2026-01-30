@@ -1,3 +1,9 @@
+🐍 Python Repository
+
+This repository contains my Python work done for data analysis, visualization, and practice projects. It is actively maintained as part of my journey to become internship and placement-ready.
+
+📁 Mini Projects & Practice
+
 # BMR Calculator App – Python
 
 A Python desktop application to calculate **Basal Metabolic Rate (BMR)**, **Body Mass Index (BMI)**, and daily calorie requirements based on activity level. The app includes a graphical interface using **Tkinter** and visualizes calorie distribution with a **Matplotlib pie chart**. This project demonstrates GUI development, basic data processing, and visualization skills.
@@ -40,6 +46,40 @@ The BMR Calculator App allows users to:
 
 ```bash
 git clone https://github.com/sahana-frost6/python-projects/blob/main/bmr_full_app.py.py
+```
 
-Added README for BMR Calculator App
+2. Navigate to the project folder
 
+Run:
+
+3. python bmr_calculator.py
+
+📚 Python Learning & Data Analysis (Ongoing)
+
+This section contains daily practice notebooks and learning materials for data analysis and visualization.
+
+Topics Covered:
+
+Python Basics (variables, loops, lists, conditions)
+
+NumPy (arrays, matrix operations)
+
+Pandas (DataFrames, data cleaning, filtering)
+
+Visualization (Matplotlib, Seaborn)
+
+Mini Projects & Exercises
+
+Tools & Concepts
+
+Python 3.x
+
+Pandas, NumPy, Matplotlib, Seaborn
+
+Data Analysis and Visualization
+
+Jupyter Notebooks
+
+Purpose
+
+This repository is actively maintained as part of my journey to become internship and placement-ready, showcasing both mini projects and structured Python learning notebooks.
